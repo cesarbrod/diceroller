@@ -1,5 +1,5 @@
 import random
-import multiprocessing
+import multiprocessing # we will make use of all processors available
 
 def roll_batch(num_rolls):
     """
